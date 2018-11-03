@@ -1,0 +1,11 @@
+C:\Users\diese\source\repos\blobwithoutangular\blobwithoutangular\bin\Debug\netcoreapp2.0\blobwithoutangular.deps.json
+C:\Users\diese\source\repos\blobwithoutangular\blobwithoutangular\bin\Debug\netcoreapp2.0\blobwithoutangular.runtimeconfig.json
+C:\Users\diese\source\repos\blobwithoutangular\blobwithoutangular\bin\Debug\netcoreapp2.0\blobwithoutangular.runtimeconfig.dev.json
+C:\Users\diese\source\repos\blobwithoutangular\blobwithoutangular\bin\Debug\netcoreapp2.0\blobwithoutangular.dll
+C:\Users\diese\source\repos\blobwithoutangular\blobwithoutangular\bin\Debug\netcoreapp2.0\blobwithoutangular.pdb
+C:\Users\diese\source\repos\blobwithoutangular\blobwithoutangular\obj\Debug\netcoreapp2.0\blobwithoutangular.csprojAssemblyReference.cache
+C:\Users\diese\source\repos\blobwithoutangular\blobwithoutangular\obj\Debug\netcoreapp2.0\blobwithoutangular.csproj.CoreCompileInputs.cache
+C:\Users\diese\source\repos\blobwithoutangular\blobwithoutangular\obj\Debug\netcoreapp2.0\blobwithoutangular.AssemblyInfoInputs.cache
+C:\Users\diese\source\repos\blobwithoutangular\blobwithoutangular\obj\Debug\netcoreapp2.0\blobwithoutangular.AssemblyInfo.cs
+C:\Users\diese\source\repos\blobwithoutangular\blobwithoutangular\obj\Debug\netcoreapp2.0\blobwithoutangular.dll
+C:\Users\diese\source\repos\blobwithoutangular\blobwithoutangular\obj\Debug\netcoreapp2.0\blobwithoutangular.pdb
